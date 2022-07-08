@@ -55,20 +55,41 @@
 2. 다양한 공모전 및 contest
 3. 내 주변 문제를 해결 -> 거창할 필요가 없다.
 
+
+
 ## sw 직군
 
 - Frontend
 
   -  Frontend는 서비스의 앞부분을 만드는 분야
-  - HTML, CSS, JavaScript를 통해 화면을 구성하고 동작
-
+  -  HTML, CSS, JavaScript를 통해 화면을 구성하고 동작
+  -  React, Vue, Angular 등의 역량 필요
+  - 프론트엔드와 웹디자인을 다른 영역이다.(요즘은 프론트엔드로 통합되는 추세)
 - Backend
+  - Backend는 서비스의 뒷부분을 만드는 분야
+  - Java, Python, Ruby 등
+  - Spring, Django, Ruby on Rails 등의 역량 필요
 
 - DevOps
+  - DevOps = Dev(개발) + OPs(운영)
+  - 배포, 스케일 인/아웃, 모니터링 등의 인프라 분야
+  - Docker, Kubernetes, Jenkins 등의 역량 필요
 
 - Data Scientist
+  - 쌓여 있는 데이터를 의미 있는 데이터로 도출하는 분야
+  -  vs 데이터 엔지니어 : 데이터의 수집/가공 /저장이 주 업무
+  - 데이터 전처리, 모델 학습, ML 파이프라인 구축 등을 담당
+  - Python, Tensorflow, Pytrch, Kubeflow 등의 역량 필요
 
-  
+
+
+## SW 직군 채용 공고 사이트 알아보기
+
+
+
+
+
+## 채용공고에서 확인 해야 할 사항
 
 Role(역활)
 

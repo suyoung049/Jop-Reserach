@@ -6,11 +6,7 @@
 
 ## 내가 원하는 SW 직군 관련 공고 10개 이상 찾아보기
 
-
-
-
-
-
+> [Data Scientist](./research.md)
 
 
 
